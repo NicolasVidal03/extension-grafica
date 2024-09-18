@@ -22,14 +22,14 @@
       }
     ],
     "viewsContainers": {
-    "panel": [
-      {
-        "id": "timelineContainer",
-        "title": "Timeline",
-        "icon": ""
-      }
-    ]
-  },
+      "panel": [
+        {
+          "id": "timelineContainer",
+          "title": "Timeline",
+          "icon": ""
+        }
+      ]
+    },
     "views": {
       "timelineContainer": [
       {
